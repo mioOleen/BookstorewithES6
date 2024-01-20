@@ -105,6 +105,6 @@ I would like to thank Let's Code Group.
 ## 📝 License <a name="license"></a>
 
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/mioOleen/BookstorewithES6/commit/8ea62050226bee86d67aad38e90ee40750d673e0) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
